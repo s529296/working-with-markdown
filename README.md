@@ -16,7 +16,7 @@
 1. Be creative on assignments to both show that you understand the material, and to build on personal capabilities.
 
 ## Pictures To Note
-![Home]( "Home")
+![Spring2020](https://github.com/s529296/working-with-markdown/blob/master/spring2020ac-sch.PNG "Home")
 
 
 
