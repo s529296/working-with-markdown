@@ -16,17 +16,8 @@
 1. Be creative on assignments to both show that you understand the material, and to build on personal capabilities.
 
 ## Pictures To Note
+![Home]( "Home")
 
-
-
-## Editing README.md
-
-
-- "Auto-Open Markdown Preview"
-- "Markdown Preview Enhanced"
-- "markdownlint" (recommended)
-
-## Title and Section Headings
 
 
 
